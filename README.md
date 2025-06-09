@@ -21,28 +21,19 @@ class ChetanjotKaurRomana:
             "Data Visualization": "Intermediate"
         }
         self.mission = "To bridge food science and impact through research, design, and communication."
+-----
 
 🌱 Vision & Focus
 
-✨ Innovating food systems that support human and planetary health
+        ✨ Innovating food systems that support human and planetary health
+        
+        🔬 Translating lab findings into real-world food applications
+        
+        🔄 Integrating sustainability with science for a circular food future
+        
+        ✏️ Empowering through scientific storytelling & open-access knowledge
 
-🔬 Translating lab findings into real-world food applications
-
-🔄 Integrating sustainability with science for a circular food future
-
-✏️ Empowering through scientific storytelling & open-access knowledge
-
-🛠️ Tools & Tech I Use
-
-🎓 Highlight Projects & Impact
-
-🧫 Developed probiotic-enriched fermented beverages using native microbial strains.
-
-♻️ Led trials on biodegradable packaging alternatives for food shelf-life enhancement.
-
-🧠 Conducted knowledge translation workshops on food labeling and consumer behavior.
-
-📢 Published student-friendly explainers on functional foods and their benefits.
+-----
 
 📢 Let's Connect
 
