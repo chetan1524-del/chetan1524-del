@@ -21,22 +21,3 @@ class ChetanjotKaurRomana:
             "Data Visualization": "Intermediate"
         }
         self.mission = "To bridge food science and impact through research, design, and communication."
------
-
-### 🌱 Vision & Focus
-
-        ✨ Innovating food systems that support human and planetary health
-        
-        🔬 Translating lab findings into real-world food applications
-        
-        🔄 Integrating sustainability with science for a circular food future
-        
-        ✏️ Empowering through scientific storytelling & open-access knowledge
-
------
-
-### 📢 Let's Connect
-
-        📧 Email: chetanjotk@gmail.com
-
-"Science is not only a body of knowledge but a way of thinking. Let's feed minds and futures together."
