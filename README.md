@@ -23,7 +23,7 @@ class ChetanjotKaurRomana:
         self.mission = "To bridge food science and impact through research, design, and communication."
 -----
 
-🌱 Vision & Focus
+### 🌱 Vision & Focus
 
         ✨ Innovating food systems that support human and planetary health
         
@@ -35,8 +35,8 @@ class ChetanjotKaurRomana:
 
 -----
 
-📢 Let's Connect
+### 📢 Let's Connect
 
-📧 Email: chetanjotk@gmail.com
+        📧 Email: chetanjotk@gmail.com
 
 "Science is not only a body of knowledge but a way of thinking. Let's feed minds and futures together."
