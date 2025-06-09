@@ -21,3 +21,5 @@ class ChetanjotKaurRomana:
             "Data Visualization": "Intermediate"
         }
         self.mission = "To bridge food science and impact through research, design, and communication."
+
+
